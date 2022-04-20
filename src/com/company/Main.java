@@ -22,7 +22,7 @@ class Main {
 
                 case 1:
 
-                    System.out.println("Введите задачу для планирования(для  завершения введите end)");
+                    System.out.println("Переделано для проверки  задачу для планирования(для  завершения введите end)");
                     Scanner scannerTask = new Scanner(System.in);
                     String task = scannerTask.nextLine();
                     if ("end".equals(input)) {
